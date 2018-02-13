@@ -2,7 +2,7 @@
 Monitor SCVMM for COMPLETED SUCCESSFULL jobs.
 Microsoft System Center VMM Job Monitor Trigger script allows for easy automation activities on SCVMM jobs. 
 This was written as an alternative to Service Management Automation (SMA) in a Windows Azure Pack (WAP) environment because SMA was not going to be implemented in WAP. 
-The only dependency is System Center Virtual Machine Monitor. 
+The only dependency is System Center Virtual Machine Manager. 
 Script was developed and tested with SC VMM 2012 R2.  
 
 Created by: Nick Conder Opulent Computing
